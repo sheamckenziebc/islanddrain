@@ -1,4 +1,4 @@
-/*! elementor - v3.25.0 - 20-11-2024 */
+﻿/*! elementor - v3.25.0 - 20-11-2024 */
 "use strict";
 (self["webpackChunkelementor"] = self["webpackChunkelementor"] || []).push([["progress"],{
 
@@ -55,3 +55,7 @@ exports["default"] = Progress;
 
 }]);
 //# sourceMappingURL=progress.6d15c16f0f5c4792940f.bundle.js.map
+
+
+
+

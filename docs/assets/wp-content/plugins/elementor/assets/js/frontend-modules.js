@@ -1,4 +1,4 @@
-/*! elementor - v3.25.0 - 20-11-2024 */
+﻿/*! elementor - v3.25.0 - 20-11-2024 */
 (self["webpackChunkelementor"] = self["webpackChunkelementor"] || []).push([["frontend-modules"],{
 
 /***/ "../assets/dev/js/editor/utils/is-instanceof.js":
@@ -4300,3 +4300,7 @@ module.exports = _interopRequireDefault, module.exports.__esModule = true, modul
 /******/ }
 ]);
 //# sourceMappingURL=frontend-modules.js.map
+
+
+
+

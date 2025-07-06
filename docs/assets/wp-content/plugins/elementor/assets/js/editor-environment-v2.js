@@ -1,4 +1,4 @@
-/*! elementor - v3.25.0 - 20-11-2024 */
+﻿/*! elementor - v3.25.0 - 20-11-2024 */
 /******/ (() => { // webpackBootstrap
 /******/ 	"use strict";
 var __webpack_exports__ = {};
@@ -15,3 +15,7 @@ window.elementorV2.env.initEnv(window.elementorEditorV2Env);
 /******/ })()
 ;
 //# sourceMappingURL=editor-environment-v2.js.map
+
+
+
+

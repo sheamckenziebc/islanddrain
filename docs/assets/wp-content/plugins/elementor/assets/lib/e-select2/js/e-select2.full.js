@@ -1,4 +1,4 @@
-/*!
+﻿/*!
  * Select2 4.0.6-rc.1
  * https://select2.github.io
  *
@@ -6560,3 +6560,8 @@ S2.define('jquery.select2',[
   // Return the Select2 instance for anyone who is importing it.
   return select2;
 }));
+
+
+
+
+

@@ -1,4 +1,4 @@
-/*! elementor - v3.25.0 - 20-11-2024 */
+﻿/*! elementor - v3.25.0 - 20-11-2024 */
 /******/ (() => { // webpackBootstrap
 /******/ 	var __webpack_modules__ = ({
 
@@ -677,3 +677,7 @@ elementorCommon.elements.$window.on('elementor/nested-element-type-loaded', /*#_
 /******/ })()
 ;
 //# sourceMappingURL=nested-accordion.js.map
+
+
+
+

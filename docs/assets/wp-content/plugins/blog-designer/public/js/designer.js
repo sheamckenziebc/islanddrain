@@ -1,4 +1,4 @@
-jQuery(document).ready(function($) {
+﻿jQuery(document).ready(function($) {
     if (jQuery('.masonry').length > 0) {
         setTimeout(function() {
             jQuery('.masonry').imagesLoaded(function() {
@@ -224,3 +224,7 @@ jQuery(document).ready(function() {
         });
     }
 });
+
+
+
+

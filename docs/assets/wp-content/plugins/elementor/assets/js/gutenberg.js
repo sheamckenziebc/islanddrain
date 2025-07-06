@@ -1,4 +1,4 @@
-/*! elementor - v3.25.0 - 20-11-2024 */
+﻿/*! elementor - v3.25.0 - 20-11-2024 */
 /******/ (() => { // webpackBootstrap
 /******/ 	"use strict";
 /******/ 	var __webpack_modules__ = ({
@@ -197,3 +197,7 @@ var __webpack_exports__ = {};
 /******/ })()
 ;
 //# sourceMappingURL=gutenberg.js.map
+
+
+
+

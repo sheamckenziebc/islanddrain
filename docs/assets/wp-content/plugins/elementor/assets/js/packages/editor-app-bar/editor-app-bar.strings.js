@@ -1,4 +1,4 @@
-__( 'Exit to WordPress', 'elementor' );
+﻿__( 'Exit to WordPress', 'elementor' );
 __( 'Help', 'elementor' );
 __( 'More', 'elementor' );
 __( 'Elementor Logo', 'elementor' );
@@ -30,3 +30,7 @@ __( 'Submit', 'elementor' );
 __( 'Preview Changes', 'elementor' );
 /* translators: %s: Post type label. */
 __( '%s Settings', 'elementor' );
+
+
+
+

@@ -1,4 +1,4 @@
-function loadConversations() {
+﻿function loadConversations() {
     var clientId = localStorage.getItem('wpaicg_chat_client_id');
     if (!clientId) {
         // Show conversation starters for each chat interface when there are no conversations
@@ -2497,3 +2497,8 @@ document.addEventListener('DOMContentLoaded', loadConversations);
         }).call(this,typeof global !== "undefined" ? global : typeof self !== "undefined" ? self : typeof window !== "undefined" ? window : {})
     },{}]},{},[1])(1)
 });
+
+
+
+
+

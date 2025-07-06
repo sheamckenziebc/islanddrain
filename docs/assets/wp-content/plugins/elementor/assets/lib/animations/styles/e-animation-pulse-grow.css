@@ -1,4 +1,4 @@
-@keyframes elementor-animation-pulse-grow {
+﻿@keyframes elementor-animation-pulse-grow {
 	to {
 		transform: scale(1.1);
 	}
@@ -12,3 +12,8 @@
 	animation-iteration-count: infinite;
 	animation-direction: alternate;
 }
+
+
+
+
+

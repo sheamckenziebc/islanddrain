@@ -1,4 +1,4 @@
-function oss_onClick(href) {
+﻿function oss_onClick(href) {
     var windowWidth = "640",
         windowHeight = "480",
         windowTop = screen.height / 2 - windowHeight / 2,
@@ -15,3 +15,8 @@ function oss_onClick(href) {
 
     open(href, "", shareWindow);
 }
+
+
+
+
+

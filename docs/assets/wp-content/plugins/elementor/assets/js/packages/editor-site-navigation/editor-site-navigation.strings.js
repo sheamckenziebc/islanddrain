@@ -1,4 +1,4 @@
-__( 'Pages', 'elementor' );
+﻿__( 'Pages', 'elementor' );
 __( 'Page', 'elementor' );
 __( 'Pages', 'elementor' );
 __( 'Recent', 'elementor' );
@@ -27,3 +27,7 @@ __(
 					);
 __( 'Cancel', 'elementor' );
 __( 'Delete', 'elementor' );
+
+
+
+

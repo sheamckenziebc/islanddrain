@@ -1,4 +1,4 @@
-@keyframes bounce {
+﻿@keyframes bounce {
 	20%,
 	53%,
 	80%,
@@ -24,3 +24,8 @@
 	animation-name: bounce;
 	transform-origin: center bottom;
 }
+
+
+
+
+

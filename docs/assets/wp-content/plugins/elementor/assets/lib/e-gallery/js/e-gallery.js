@@ -1,4 +1,4 @@
-/*! E-Gallery v1.2.0 by Elementor */
+﻿/*! E-Gallery v1.2.0 by Elementor */
 var EGallery =
 /******/ (function(modules) { // webpackBootstrap
 /******/ 	// The module cache
@@ -1299,3 +1299,7 @@ __webpack_require__.r(__webpack_exports__);
 
 /******/ })["default"];
 //# sourceMappingURL=e-gallery.js.map
+
+
+
+

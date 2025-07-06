@@ -1,4 +1,4 @@
-@keyframes elementor-animation-wobble-to-top-right {
+﻿@keyframes elementor-animation-wobble-to-top-right {
 	16.65% {
 		transform: translate(8px, -8px);
 	}
@@ -26,3 +26,8 @@
 	animation-timing-function: ease-in-out;
 	animation-iteration-count: 1;
 }
+
+
+
+
+

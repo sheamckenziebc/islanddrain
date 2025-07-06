@@ -1,4 +1,4 @@
-/* 
+﻿/* 
  *   jQuery Numerator Plugin 0.2.1
  *   https://github.com/garethdn/jquery-numerator
  *
@@ -135,3 +135,7 @@
 	};
 
 }));
+
+
+
+

@@ -1,4 +1,4 @@
-@keyframes elementor-animation-wobble-horizontal {
+﻿@keyframes elementor-animation-wobble-horizontal {
 	16.65% {
 		transform: translateX(8px);
 	}
@@ -26,3 +26,8 @@
 	animation-timing-function: ease-in-out;
 	animation-iteration-count: 1;
 }
+
+
+
+
+

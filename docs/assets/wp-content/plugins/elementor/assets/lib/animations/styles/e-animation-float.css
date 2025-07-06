@@ -1,4 +1,4 @@
-.elementor-animation-float {
+﻿.elementor-animation-float {
 	transition-duration: 0.3s;
 	transition-property: transform;
 	transition-timing-function: ease-out;
@@ -8,3 +8,8 @@
 .elementor-animation-float:hover {
 	transform: translateY(-8px);
 }
+
+
+
+
+

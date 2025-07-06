@@ -1,4 +1,4 @@
-/*! elementor - v3.25.0 - 20-11-2024 */
+﻿/*! elementor - v3.25.0 - 20-11-2024 */
 /******/ (() => { // webpackBootstrap
 /******/ 	"use strict";
 var __webpack_exports__ = {};
@@ -23,3 +23,7 @@ window.elementorV2.editor.init(document.getElementById('elementor-editor-wrapper
 /******/ })()
 ;
 //# sourceMappingURL=editor-loader-v2.js.map
+
+
+
+

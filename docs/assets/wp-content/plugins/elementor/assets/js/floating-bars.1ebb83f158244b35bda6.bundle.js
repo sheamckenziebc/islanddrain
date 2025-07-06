@@ -1,4 +1,4 @@
-/*! elementor - v3.25.0 - 20-11-2024 */
+﻿/*! elementor - v3.25.0 - 20-11-2024 */
 (self["webpackChunkelementor"] = self["webpackChunkelementor"] || []).push([["floating-bars"],{
 
 /***/ "../modules/floating-buttons/assets/js/floating-bars/frontend/classes/floatin-bar-dom.js":
@@ -459,3 +459,7 @@ module.exports = _typeof, module.exports.__esModule = true, module.exports["defa
 
 }]);
 //# sourceMappingURL=floating-bars.1ebb83f158244b35bda6.bundle.js.map
+
+
+
+

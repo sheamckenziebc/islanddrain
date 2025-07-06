@@ -1,4 +1,4 @@
-/*! nouislider - 13.0.0 - 2/6/2019 */
+﻿/*! nouislider - 13.0.0 - 2/6/2019 */
 (function(factory) {
     if (typeof define === "function" && define.amd) {
         // AMD. Register as an anonymous module.
@@ -2398,3 +2398,8 @@
         create: initialize
     };
 });
+
+
+
+
+

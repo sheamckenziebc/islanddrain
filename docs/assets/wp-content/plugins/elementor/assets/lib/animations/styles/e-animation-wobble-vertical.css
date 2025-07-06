@@ -1,4 +1,4 @@
-@keyframes elementor-animation-wobble-vertical {
+﻿@keyframes elementor-animation-wobble-vertical {
 	16.65% {
 		transform: translateY(8px);
 	}
@@ -26,3 +26,8 @@
 	animation-timing-function: ease-in-out;
 	animation-iteration-count: 1;
 }
+
+
+
+
+

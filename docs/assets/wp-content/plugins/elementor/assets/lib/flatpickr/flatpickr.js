@@ -1,4 +1,4 @@
-/* flatpickr v4.6.13, @license MIT */
+﻿/* flatpickr v4.6.13, @license MIT */
 (function (global, factory) {
 	typeof exports === 'object' && typeof module !== 'undefined' ? module.exports = factory() :
 		typeof define === 'function' && define.amd ? define(factory) :
@@ -2717,3 +2717,8 @@
 	return flatpickr;
 
 })));
+
+
+
+
+

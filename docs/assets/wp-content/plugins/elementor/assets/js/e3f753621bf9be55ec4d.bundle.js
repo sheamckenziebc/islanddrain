@@ -1,4 +1,4 @@
-/*! elementor - v3.25.0 - 20-11-2024 */
+﻿/*! elementor - v3.25.0 - 20-11-2024 */
 (self["webpackChunkelementor"] = self["webpackChunkelementor"] || []).push([["modules_nested-accordion_assets_js_editor_module_js"],{
 
 /***/ "../modules/nested-accordion/assets/js/editor/module.js":
@@ -297,3 +297,7 @@ module.exports = toPropertyKey, module.exports.__esModule = true, module.exports
 
 }]);
 //# sourceMappingURL=e3f753621bf9be55ec4d.bundle.js.map
+
+
+
+

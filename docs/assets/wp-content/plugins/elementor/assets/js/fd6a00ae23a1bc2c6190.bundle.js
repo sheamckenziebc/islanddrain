@@ -1,4 +1,4 @@
-/*! elementor - v3.25.0 - 20-11-2024 */
+﻿/*! elementor - v3.25.0 - 20-11-2024 */
 (self["webpackChunkelementor"] = self["webpackChunkelementor"] || []).push([["vendors-node_modules_prop-types_index_js-node_modules_babel_runtime_helpers_slicedToArray_js"],{
 
 /***/ "../node_modules/object-assign/index.js":
@@ -1220,3 +1220,7 @@ module.exports = _unsupportedIterableToArray, module.exports.__esModule = true, 
 
 }]);
 //# sourceMappingURL=fd6a00ae23a1bc2c6190.bundle.js.map
+
+
+
+

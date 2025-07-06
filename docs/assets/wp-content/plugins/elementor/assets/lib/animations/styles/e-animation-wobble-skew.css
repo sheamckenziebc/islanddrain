@@ -1,4 +1,4 @@
-@keyframes elementor-animation-wobble-skew {
+﻿@keyframes elementor-animation-wobble-skew {
 	16.65% {
 		transform: skew(-12deg);
 	}
@@ -26,3 +26,8 @@
 	animation-timing-function: ease-in-out;
 	animation-iteration-count: 1;
 }
+
+
+
+
+

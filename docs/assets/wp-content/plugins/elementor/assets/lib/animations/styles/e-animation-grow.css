@@ -1,4 +1,4 @@
-.elementor-animation-grow {
+﻿.elementor-animation-grow {
 	transition-duration: 0.3s;
 	transition-property: transform;
 }
@@ -7,3 +7,8 @@
 .elementor-animation-grow:hover {
 	transform: scale(1.1);
 }
+
+
+
+
+

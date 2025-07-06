@@ -1,4 +1,4 @@
-jQuery(document).ready(function($){	
+﻿jQuery(document).ready(function($){	
 	
 	var adminBarHeight = 0;
 	if ( $("#wpadminbar").length != 0 ){
@@ -515,3 +515,7 @@ function validatePhone(txtPhone) {
 		return false;
 	}
 }
+
+
+
+

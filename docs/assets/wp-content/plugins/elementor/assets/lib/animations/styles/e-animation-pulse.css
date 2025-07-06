@@ -1,4 +1,4 @@
-@keyframes elementor-animation-pulse {
+﻿@keyframes elementor-animation-pulse {
 	25% {
 		transform: scale(1.1);
 	}
@@ -14,3 +14,8 @@
 	animation-timing-function: linear;
 	animation-iteration-count: infinite;
 }
+
+
+
+
+

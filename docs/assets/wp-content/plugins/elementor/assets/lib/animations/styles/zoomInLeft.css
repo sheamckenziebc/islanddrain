@@ -1,4 +1,4 @@
-@keyframes zoomInLeft {
+﻿@keyframes zoomInLeft {
 	from {
 		opacity: 0;
 		transform: scale3d(0.1, 0.1, 0.1) translate3d(-1000px, 0, 0);
@@ -13,3 +13,8 @@
 .zoomInLeft {
 	animation-name: zoomInLeft;
 }
+
+
+
+
+

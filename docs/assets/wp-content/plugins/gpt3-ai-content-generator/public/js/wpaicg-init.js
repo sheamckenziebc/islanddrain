@@ -1,4 +1,4 @@
-let wpaicgInit = {
+﻿let wpaicgInit = {
     wpaicgImageForm: null,
     wpaicgImageGenerated: null,
     wpaicgImageGrid: null,
@@ -374,4 +374,9 @@ let wpaicgInit = {
     }
 }
 window['wpaicgInit'] = wpaicgInit.init();
+
+
+
+
+
 

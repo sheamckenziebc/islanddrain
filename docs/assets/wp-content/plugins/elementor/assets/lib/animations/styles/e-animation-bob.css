@@ -1,4 +1,4 @@
-@keyframes elementor-animation-bob {
+﻿@keyframes elementor-animation-bob {
 	0% {
 		transform: translateY(-8px);
 	}
@@ -25,3 +25,8 @@
 	animation-fill-mode: forwards;
 	animation-direction: normal, alternate;
 }
+
+
+
+
+

@@ -1,4 +1,4 @@
-.elementor-animation-skew {
+﻿.elementor-animation-skew {
 	transition-duration: 0.3s;
 	transition-property: transform;
 }
@@ -7,3 +7,8 @@
 .elementor-animation-skew:hover {
 	transform: skew(-10deg);
 }
+
+
+
+
+

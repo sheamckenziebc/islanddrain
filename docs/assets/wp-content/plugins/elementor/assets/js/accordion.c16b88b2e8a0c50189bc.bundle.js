@@ -1,4 +1,4 @@
-/*! elementor - v3.25.0 - 20-11-2024 */
+﻿/*! elementor - v3.25.0 - 20-11-2024 */
 "use strict";
 (self["webpackChunkelementor"] = self["webpackChunkelementor"] || []).push([["accordion"],{
 
@@ -230,3 +230,7 @@ exports["default"] = baseTabs;
 
 }]);
 //# sourceMappingURL=accordion.c16b88b2e8a0c50189bc.bundle.js.map
+
+
+
+

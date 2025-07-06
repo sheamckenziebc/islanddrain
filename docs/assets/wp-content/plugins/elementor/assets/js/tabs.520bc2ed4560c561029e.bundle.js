@@ -1,4 +1,4 @@
-/*! elementor - v3.25.0 - 20-11-2024 */
+﻿/*! elementor - v3.25.0 - 20-11-2024 */
 "use strict";
 (self["webpackChunkelementor"] = self["webpackChunkelementor"] || []).push([["tabs"],{
 
@@ -229,3 +229,7 @@ exports["default"] = Tabs;
 
 }]);
 //# sourceMappingURL=tabs.520bc2ed4560c561029e.bundle.js.map
+
+
+
+

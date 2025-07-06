@@ -1,4 +1,4 @@
-window.onload = function () {
+﻿window.onload = function () {
     two_replace_backgrounds();
 };
 window.addEventListener( 'elementor/frontend/init', () => {
@@ -89,4 +89,9 @@ function two_replace_backgrounds(elementor_elements = false) {
         two_lazyLoadInstance.update();
     }
 }
+
+
+
+
+
 

@@ -1,4 +1,4 @@
-/*! elementor - v3.25.0 - 20-11-2024 */
+﻿/*! elementor - v3.25.0 - 20-11-2024 */
 (self["webpackChunkelementor"] = self["webpackChunkelementor"] || []).push([["modules_nested-elements_assets_js_editor_views_view_js"],{
 
 /***/ "../modules/nested-elements/assets/js/editor/views/view.js":
@@ -233,3 +233,7 @@ module.exports = _superPropBase, module.exports.__esModule = true, module.export
 
 }]);
 //# sourceMappingURL=7b18c3f2f2bfffda289f.bundle.js.map
+
+
+
+

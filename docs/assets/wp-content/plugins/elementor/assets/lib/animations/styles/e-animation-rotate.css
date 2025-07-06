@@ -1,4 +1,4 @@
-.elementor-animation-rotate {
+﻿.elementor-animation-rotate {
 	transition-duration: 0.3s;
 	transition-property: transform;
 }
@@ -7,3 +7,8 @@
 .elementor-animation-rotate:hover {
 	transform: rotate(4deg);
 }
+
+
+
+
+

@@ -1,4 +1,4 @@
-@keyframes pulse {
+﻿@keyframes pulse {
 	from,
 	to {
 		transform: scale3d(1, 1, 1);
@@ -10,3 +10,8 @@
 .pulse {
 	animation-name: pulse;
 }
+
+
+
+
+

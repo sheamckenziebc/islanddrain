@@ -1,4 +1,4 @@
-@keyframes bounceInUp {
+﻿@keyframes bounceInUp {
 	60%,
 	75%,
 	90%,
@@ -27,3 +27,8 @@
 .bounceInUp {
 	animation-name: bounceInUp;
 }
+
+
+
+
+

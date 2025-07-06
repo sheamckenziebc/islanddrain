@@ -1,4 +1,4 @@
-.flatpickr-calendar {
+﻿.flatpickr-calendar {
 	background: transparent;
 	opacity: 0;
 	display: none;
@@ -773,3 +773,8 @@ span.flatpickr-weekday {
 		transform: translate3d(0, 0, 0);
 	}
 }
+
+
+
+
+

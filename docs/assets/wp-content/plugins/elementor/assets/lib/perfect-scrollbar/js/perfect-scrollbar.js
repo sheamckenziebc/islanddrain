@@ -1,4 +1,4 @@
-/*!
+﻿/*!
  * perfect-scrollbar v1.4.0
  * (c) 2018 Hyunje Jun
  * @license MIT
@@ -1322,3 +1322,8 @@ PerfectScrollbar.prototype.removePsClasses = function removePsClasses () {
 return PerfectScrollbar;
 
 })));
+
+
+
+
+

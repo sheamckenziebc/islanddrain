@@ -1,4 +1,4 @@
-/*! elementor - v3.25.0 - 20-11-2024 */
+﻿/*! elementor - v3.25.0 - 20-11-2024 */
 (self["webpackChunkelementor"] = self["webpackChunkelementor"] || []).push([["text-path"],{
 
 /***/ "../modules/shapes/assets/js/frontend/handlers/text-path.js":
@@ -1909,3 +1909,7 @@ exports["default"] = TextPathHandler;
 
 }]);
 //# sourceMappingURL=text-path.a20877e832db83423958.bundle.js.map
+
+
+
+

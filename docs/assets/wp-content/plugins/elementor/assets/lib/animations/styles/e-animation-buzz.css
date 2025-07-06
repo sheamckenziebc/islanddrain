@@ -1,4 +1,4 @@
-@keyframes elementor-animation-buzz {
+﻿@keyframes elementor-animation-buzz {
 	50% {
 		transform: translateX(3px) rotate(2deg);
 	}
@@ -14,3 +14,8 @@
 	animation-timing-function: linear;
 	animation-iteration-count: infinite;
 }
+
+
+
+
+

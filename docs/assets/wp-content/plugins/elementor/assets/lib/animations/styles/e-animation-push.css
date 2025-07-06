@@ -1,4 +1,4 @@
-@keyframes elementor-animation-push {
+﻿@keyframes elementor-animation-push {
 	50% {
 		transform: scale(0.8);
 	}
@@ -14,3 +14,8 @@
 	animation-timing-function: linear;
 	animation-iteration-count: 1;
 }
+
+
+
+
+

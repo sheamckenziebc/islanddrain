@@ -1,4 +1,4 @@
-var resetFeedbackButtons = function() {
+﻿var resetFeedbackButtons = function() {
     document.getElementById('wpaicg-prompt-thumbs_up').disabled = false;
     document.getElementById('wpaicg-prompt-thumbs_up').style.display = 'inline-block';
     document.getElementById('wpaicg-prompt-thumbs_down').disabled = false;
@@ -607,3 +607,8 @@ var wpaicgPlayGround = {
     }
 }
 wpaicgPlayGround.init();
+
+
+
+
+

@@ -1,4 +1,4 @@
-@keyframes rotateInUpLeft {
+﻿@keyframes rotateInUpLeft {
 	from {
 		transform-origin: left bottom;
 		transform: rotate3d(0, 0, 1, 45deg);
@@ -13,3 +13,8 @@
 .rotateInUpLeft {
 	animation-name: rotateInUpLeft;
 }
+
+
+
+
+

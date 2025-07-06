@@ -1,4 +1,4 @@
-@keyframes rotateInDownRight {
+﻿@keyframes rotateInDownRight {
 	from {
 		transform-origin: right bottom;
 		transform: rotate3d(0, 0, 1, 45deg);
@@ -13,3 +13,8 @@
 .rotateInDownRight {
 	animation-name: rotateInDownRight;
 }
+
+
+
+
+

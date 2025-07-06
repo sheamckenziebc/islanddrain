@@ -1,4 +1,4 @@
-/* translators: %s: Element type title. */
+﻿/* translators: %s: Element type title. */
 __( 'Edit %s', 'elementor' );
 __( 'General', 'elementor' );
 __( 'Style', 'elementor' );
@@ -51,3 +51,7 @@ __( 'Bottom', 'elementor' );
 __( 'Left', 'elementor' );
 __( 'Z-Index', 'elementor' );
 __( 'Position', 'elementor' );
+
+
+
+

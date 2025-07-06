@@ -1,4 +1,4 @@
-@font-face {
+﻿@font-face {
   font-family: "eicons";
   src: url("/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5_32_0");
   src: url("/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5_32_0#iefix") format("embedded-opentype"), url("/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5_32_0") format("woff2"), url("/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5_32_0") format("woff"), url("/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5_32_0") format("truetype"), url("/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5_32_0#eicon") format("svg");
@@ -1882,3 +1882,7 @@
 .eicon-elementor-square:before {
   content: "\e813";
 }
+
+
+
+

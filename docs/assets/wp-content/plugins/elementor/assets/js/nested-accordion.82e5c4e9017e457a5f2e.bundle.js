@@ -1,4 +1,4 @@
-/*! elementor - v3.25.0 - 20-11-2024 */
+﻿/*! elementor - v3.25.0 - 20-11-2024 */
 "use strict";
 (self["webpackChunkelementor"] = self["webpackChunkelementor"] || []).push([["nested-accordion"],{
 
@@ -475,3 +475,7 @@ exports["default"] = NestedAccordion;
 
 }]);
 //# sourceMappingURL=nested-accordion.82e5c4e9017e457a5f2e.bundle.js.map
+
+
+
+
